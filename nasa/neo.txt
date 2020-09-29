@@ -1,0 +1,14 @@
+What start date would you like for the search? [YYYY-MM-DD] Format: Between the dates of  and 7 days later, there were 108 near Earth objects
+6 of them were potentially hazardous: 
+['name: (2006 WJ3)', ['max diameter (miles): 0.369309908'], ['speed (MPH): 40467.7006796484'], ['miss distance (miles): 40210237.5700016808']]
+
+['name: (2018 GM)', ['max diameter (miles): 0.1767628354'], ['speed (MPH): 53094.3775844935'], ['miss distance (miles): 20549738.3406243308']]
+
+['name: (2013 GY7)', ['max diameter (miles): 0.3216554833'], ['speed (MPH): 39671.3507248403'], ['miss distance (miles): 9513615.3402938052']]
+
+['name: 312070 (2007 TA19)', ['max diameter (miles): 0.4868452748'], ['speed (MPH): 58297.8092416827'], ['miss distance (miles): 22889485.9971635394']]
+
+['name: (2014 UR116)', ['max diameter (miles): 0.4049402617'], ['speed (MPH): 37538.0728277412'], ['miss distance (miles): 19387616.6129217898']]
+
+['name: (2013 TR132)', ['max diameter (miles): 0.3526882241'], ['speed (MPH): 43839.6777163557'], ['miss distance (miles): 36877154.6053940348']]
+
